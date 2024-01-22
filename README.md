@@ -18,7 +18,5 @@ Skills: C / C++ / C# / Lua
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOFL&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/GODOFL)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=GODOFL)  
 
